@@ -43,8 +43,10 @@ NE555 precision timer based IRFZ44N LED/motor driver prototype on breadboard.
  </div>
 
  ## Prototype
- 
+  
  <div align="center">
+ 
+ ### ![Watch the video](https://youtu.be/RiIcqe25NVU)
  
 ![prototype](./prototype.jpg)
  
