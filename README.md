@@ -51,3 +51,6 @@ NE555 precision timer based IRFZ44N LED/motor driver prototype on breadboard.
 ![prototype](./prototype.jpg)
  
  </div>
+
+ ## References
+https://circuitdigest.com/electronic-circuits/555-timer-pwm-generator-circuit
