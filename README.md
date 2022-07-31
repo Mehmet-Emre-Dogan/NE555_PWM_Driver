@@ -1,7 +1,7 @@
 # NE555_PWM_Driver
 NE555 precision timer based IRFZ44N LED/motor driver design.
  
- ## PCB Design
+## PCB Design (DIP)
 
 <div align="center">
  
@@ -20,6 +20,27 @@ NE555 precision timer based IRFZ44N LED/motor driver design.
 ![back](bottom.png)
  
  </div>
+
+## PCB Design (SMD)
+
+<div align="center">
+ 
+### Schematic
+ 
+![schematic](NE555_PWM_Driver_smd\sch.png)
+ 
+ 
+### Front
+ 
+![front](NE555_PWM_Driver_smd\top.png)
+ 
+
+### Back
+ 
+![back](NE555_PWM_Driver_smd\bottom.png)
+ 
+ </div>
+ 
  
 
  ## Prototype on Breadboard
