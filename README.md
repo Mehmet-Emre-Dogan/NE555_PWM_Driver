@@ -7,17 +7,17 @@ NE555 precision timer based IRFZ44N LED/motor driver design.
  
 ### Schematic
  
-![schematic](sch.png)
+![schematic](./sch.png)
  
  
 ### Front
  
-![front](top.png)
+![front](./top.png)
  
 
 ### Back
  
-![back](bottom.png)
+![back](./bottom.png)
  
  </div>
 
@@ -27,17 +27,17 @@ NE555 precision timer based IRFZ44N LED/motor driver design.
  
 ### Schematic
  
-![schematic](NE555_PWM_Driver_smd\sch.png)
+![schematic](./NE555_PWM_Driver_smd/sch.png)
  
  
 ### Front
  
-![front](NE555_PWM_Driver_smd\top.png)
+![front](./NE555_PWM_Driver_smd/top.png)
  
 
 ### Back
  
-![back](NE555_PWM_Driver_smd\bottom.png)
+![back](./NE555_PWM_Driver_smd/bottom.png)
  
  </div>
  
