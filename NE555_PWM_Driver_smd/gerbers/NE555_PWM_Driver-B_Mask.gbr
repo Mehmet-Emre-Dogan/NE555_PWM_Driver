@@ -1,12 +1,12 @@
 %TF.GenerationSoftware,KiCad,Pcbnew,(6.0.2)*%
-%TF.CreationDate,2022-07-31T15:55:41+03:00*%
+%TF.CreationDate,2022-08-06T16:36:37+03:00*%
 %TF.ProjectId,NE555_PWM_Driver,4e453535-355f-4505-974d-5f4472697665,rev?*%
 %TF.SameCoordinates,Original*%
 %TF.FileFunction,Soldermask,Bot*%
 %TF.FilePolarity,Negative*%
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW (6.0.2)) date 2022-07-31 15:55:41*
+G04 Created by KiCad (PCBNEW (6.0.2)) date 2022-08-06 16:36:37*
 %MOMM*%
 %LPD*%
 G01*
