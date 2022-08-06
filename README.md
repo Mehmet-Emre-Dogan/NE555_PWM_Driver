@@ -40,9 +40,22 @@ NE555 precision timer based IRFZ44N LED/motor driver design.
 ![back](./NE555_PWM_Driver_smd/bottom.png)
  
  </div>
+
+## Simulation on LTSpice
+  
+ <div align="center">
  
+### Circuit
+ 
+![cct](./SPICE/sim_sch.png)
  
 
+### Waveforms
+ 
+![wvf](./SPICE/sim_wvf.png)
+ 
+ </div>
+ 
  ## Prototype on Breadboard
   
  <div align="center">
