@@ -65,6 +65,33 @@ NE555 precision timer based IRFZ44N LED/motor driver design.
  
  </div>
 
+## Oscilloscope Waveforms
+
+<div align="center">
+
+### General
+
+![scope](./smdScopePics/scope.BMP)
+
+### Whole Swing
+
+![scope](./smdScopePics/wholeSwing.BMP)
+
+### Ripple
+
+![scope](./smdScopePics/ripple.BMP)
+
+### Noise
+
+![scope](./smdScopePics/noise.BMP)
+
+ </div>
+
+ ### Conclusion
+
+ - The theoratical frequency is consistent with experimental frequency
+ - There is small discrepancies between the theoratical ripple and experimental ripple
+
 ## Simulation on LTSpice
   
  <div align="center">
