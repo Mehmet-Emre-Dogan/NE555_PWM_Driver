@@ -1,5 +1,9 @@
 # NE555_PWM_Driver
 NE555 precision timer based IRFZ44N LED/motor driver design.
+- No feedback loop
+- Just open loop control
+- No filter
+- Bare PWM output
  
 ## PCB Design (DIP)
 
@@ -38,6 +42,26 @@ NE555 precision timer based IRFZ44N LED/motor driver design.
 ### Back
  
 ![back](./NE555_PWM_Driver_smd/bottom.png)
+ 
+ </div>
+
+## PCB Images (SMD)
+
+<div align="center">
+ 
+### With Lamp
+ 
+![with load](./withLoad.jpeg)
+ 
+ 
+### Front
+ 
+![front](./topPcb.jpeg)
+ 
+
+### Back
+ 
+![back](./bottomPcb.jpeg)
  
  </div>
 
